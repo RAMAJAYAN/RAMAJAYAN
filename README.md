@@ -1,7 +1,7 @@
 ![masterhead](https://thumbs.dreamstime.com/b/cogs-gears-industrial-global-business-background-background-integration-binary-technology-banner-background-vector-illustration-180798145.jpg)
 <h1 align="center">Hi 👋, I'm RAMAJAYAN</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
+<img align="right" alt="coding" width="280" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramajayan&label=Profile%20views&color=0e75b6&style=flat" alt="ramajayan" /> </p>
 
