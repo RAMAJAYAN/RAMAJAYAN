@@ -1,6 +1,6 @@
-![masterhead](https://www.jadeglobal.com/sites/default/files/2022-09/Top-Hi-Tech-trends-shaping-the-future.jpg)
+![masterhead](https://www.austrade.gov.au/Images/UserUploadedImages/1798/ICT-opps-banner.jpg)
 <h1 align="center">Hi 👋, I'm RAMAJAYAN</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">ENGINEER STUDENT</h3>
 <img align="right" alt="coding" width="280" src="https://img.freepik.com/free-vector/hacker-operating-laptop-cartoon-icon-illustration-technology-icon-concept-isolated-flat-cartoon-style_138676-2387.jpg?w=360">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramajayan&label=Profile%20views&color=0e75b6&style=flat" alt="ramajayan" /> </p>
